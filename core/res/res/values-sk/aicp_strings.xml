@@ -17,27 +17,27 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- ADB enabled, but not connected notification title -->
-  <string name="adb_not_connected_notification_title">ADB bağlı değil</string>
-  <string name="adb_active_custom_tile_not_connected">etkin değil</string>
+  <string name="adb_not_connected_notification_title">ADB neaktívne</string>
+  <string name="adb_active_custom_tile_not_connected">neaktívne</string>
   <!-- Vendor mismatched fingerprint warning [CHAR LIMIT=NONE] -->
-  <string name="system_error_vendorprint">Üretici dosyanız sisteminiz ile eşleşmiyor. Cihazınız için lütfen <xliff:g id="string">%s</xliff:g> üretici dosyasını flaşlayın</string>
+  <string name="system_error_vendorprint">Váš dodávateľ image sa nezhoduje so systémom. Prosím flash image <xliff:g id="string">%s</xliff:g> pre vaše zariadeni</string>
   <!-- Button to soft reboot the SystemUI, within the Reboot Options dialog -->
-  <string name="reboot_systemui">Sistem arayüzünü yeniden başlat</string>
+  <string name="reboot_systemui">Reštartovať grafické rozhranie (SystemUI)</string>
   <!-- label for item that screenrecord in phone options dialog -->
-  <string name="global_action_screenrecord">Ekran kaydı</string>
+  <string name="global_action_screenrecord">Nahrávanie obrazovky</string>
   <!-- Screenshoot edit action -->
-  <string name="edit">Düzenle</string>
+  <string name="edit">Upraviť</string>
   <!-- Singlehanded Mode -->
   <!-- Powermenu Torch -->
-  <string name="global_action_torch">Fener</string>
+  <string name="global_action_torch">Baterka</string>
   <!-- label for item that takes On-The-Go in the phone options dialog -->
-  <string name="global_action_onthego">Hareket-Halinde Modu</string>
+  <string name="global_action_onthego">Režim na cestách</string>
   <!-- Billing bypass (eg. Lucky Patcher, Uret) dialog -->
-  <string name="billing_bypass_installed_title">Korsan Yama programı bulundu!</string>
-  <string name="billing_bypass_installed_message">Cihazımda Uret veya Lucky Patcher gibi kaçak kullanıma yönelik yama programı çalıştırdığımı kabul ediyorum. Bu yazılımları kullanarak, yazılım geliştiricilerine direk zarar veriyorum.</string>
-  <string name="billing_bypass_acknowledge">Kabul ediyorum.</string>
+  <string name="billing_bypass_installed_title">Billing Patcher nájdený!</string>
+  <string name="billing_bypass_installed_message">Potvrdzujem, že na tomto systéme beží aplikácia obchádzajúca mikrotransakcie ako Lucky Patcher alebo Ureta. Aktívne ubližujem vývojárom aplikácií používaním tohto typu aplikácií.</string>
+  <string name="billing_bypass_acknowledge">Beriem na vedomie.</string>
   <!-- Pocket Lock -->
-  <string name="pocket_lock_message_long_press">Kullanmak için güç düğmesine uzun basma</string>
+  <string name="pocket_lock_message_long_press">Pre interakciu dlho stlačte tlačidlo Napájanie</string>
   <!-- Defines the sysfs attribute path used by pocket bridge
         to communicate pocket state to the pocket judge kernel driver. -->
 </resources>

@@ -17,15 +17,27 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- ADB enabled, but not connected notification title -->
+  <string name="adb_not_connected_notification_title">ADB không hoạt động</string>
+  <string name="adb_active_custom_tile_not_connected">không hoạt động</string>
   <!-- Vendor mismatched fingerprint warning [CHAR LIMIT=NONE] -->
+  <string name="system_error_vendorprint">Hình ảnh nhà cung cấp của bạn không phù hợp với phiên bản hệ thống. Xin vui lòng flash hình ảnh nhà cung cấp<xliff:g id="string">%s</xliff:g> cho điện thoại của bạn</string>
   <!-- Button to soft reboot the SystemUI, within the Reboot Options dialog -->
+  <string name="reboot_systemui">Khởi động lại Giao diện người dùng hệ thống</string>
   <!-- label for item that screenrecord in phone options dialog -->
+  <string name="global_action_screenrecord">Quay màn hình</string>
   <!-- Screenshoot edit action -->
+  <string name="edit">Sửa</string>
   <!-- Singlehanded Mode -->
   <!-- Powermenu Torch -->
+  <string name="global_action_torch">Đèn pin</string>
   <!-- label for item that takes On-The-Go in the phone options dialog -->
+  <string name="global_action_onthego">Chế độ On-The-Go</string>
   <!-- Billing bypass (eg. Lucky Patcher, Uret) dialog -->
+  <string name="billing_bypass_installed_title">Phát hiện trình vá thanh toán!</string>
+  <string name="billing_bypass_installed_message">Tôi xác nhận rằng hệ thống này đang sử dụng ứng dụng vá bỏ qua thanh toán như Lucky Patcher hoặc Uret. Bạn đã làm hại các nhà phát triển ứng dụng bằng cách sử dụng phần mềm nói trên.</string>
+  <string name="billing_bypass_acknowledge">Xác nhận.</string>
   <!-- Pocket Lock -->
+  <string name="pocket_lock_message_long_press">Nhấn giữ nút nguồn để tương tác</string>
   <!-- Defines the sysfs attribute path used by pocket bridge
         to communicate pocket state to the pocket judge kernel driver. -->
 </resources>
