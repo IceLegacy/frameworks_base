@@ -27,7 +27,6 @@
   <string name="global_action_screenrecord">Registratore schermo</string>
   <!-- Screenshoot edit action -->
   <string name="edit">Modifica</string>
-  <!-- Singlehanded Mode -->
   <!-- Powermenu Torch -->
   <string name="global_action_torch">Torcia</string>
   <!-- label for item that takes On-The-Go in the phone options dialog -->
